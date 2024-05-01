@@ -48,3 +48,10 @@ next-env.d.ts
 .firebase/
 
 # End of https://www.toptal.com/developers/gitignore/api/firebase
+
+# my created
+yarn.lock
+package-lock.json
+firebase.debug.log
+yarn-debug.log
+yarn-error.log
